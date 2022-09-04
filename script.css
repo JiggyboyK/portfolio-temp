@@ -271,6 +271,13 @@
     justify-content: center;
     align-items: center;
     border: 50px;
+    
+}
+
+
+.footer a 
+{
+    margin: 11px;
 }
 
 
